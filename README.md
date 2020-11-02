@@ -1,5 +1,5 @@
 # PKUAutoSubmit (modified)
-感谢大佬
+why not work
 
 **UPDATE 2020/10/18**
 
